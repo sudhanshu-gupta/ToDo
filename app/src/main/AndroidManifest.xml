@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.amigo.todo">
+
+    <application
+        android:name=".ToDoApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <provider
+            android:name=".contentprovider.ToDoContentProvider"
+            android:authorities="com.amigo.todo.contentprovider" />
+
+        <activity
+            android:name=".ToDoEditActivity"
+            android:label=""
+            android:windowSoftInputMode="stateVisible|adjustResize">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.amigo.todo.ToDoActivity" />
+        </activity>
+        <activity
+            android:name=".ToDoActivity"
+            android:label=""
+            android:launchMode="singleTop"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".NotificationService"></service>
+    </application>
+
+</manifest>

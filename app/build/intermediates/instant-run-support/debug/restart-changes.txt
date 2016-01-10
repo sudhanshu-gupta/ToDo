@@ -1,0 +1,6 @@
+/Users/sudhanshu.gupta/Documents/workspace/ToDo/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/amigo/todo/ToDoApplication.class
+/Users/sudhanshu.gupta/Documents/workspace/ToDo/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/amigo/todo/ToDoActivity.class
+/Users/sudhanshu.gupta/Documents/workspace/ToDo/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/amigo/todo/ToDoActivity$2.class
+/Users/sudhanshu.gupta/Documents/workspace/ToDo/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/amigo/todo/ToDoActivity$1.class
+/Users/sudhanshu.gupta/Documents/workspace/ToDo/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/amigo/todo/ToDoEditActivity.class
+/Users/sudhanshu.gupta/Documents/workspace/ToDo/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/amigo/todo/ToDoEditActivity$DateFragment.class
