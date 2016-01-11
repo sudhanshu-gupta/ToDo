@@ -2230,13 +2230,13 @@ containing a value of this type.
         public static final int center=0x7f0c001d;
         public static final int center_horizontal=0x7f0c001e;
         public static final int center_vertical=0x7f0c001f;
-        public static final int checkBox=0x7f0c0071;
+        public static final int checkBox=0x7f0c0070;
         public static final int checkbox=0x7f0c0052;
         public static final int chronometer=0x7f0c0081;
         public static final int clip_horizontal=0x7f0c002b;
         public static final int clip_vertical=0x7f0c002c;
         public static final int collapseActionView=0x7f0c0033;
-        public static final int confirmButton=0x7f0c0070;
+        public static final int confirmButton=0x7f0c0071;
         public static final int contentPanel=0x7f0c004a;
         public static final int custom=0x7f0c0050;
         public static final int customPanel=0x7f0c004f;

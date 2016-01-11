@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/sudhanshu.gupta/Documents/workspace/ToDo/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="83821aa907f9d467dd1d6ecce36dca2bf759e8dc">
+        <dex dex="/Users/sudhanshu.gupta/Documents/workspace/ToDo/app/build/intermediates/pre-dexed/debug/classes_b2c94b03da69d0de27dd52e22008b13d7ba31892.jar" />
+    </item>
+
+</items>

@@ -64,16 +64,9 @@
         android:layout_alignEnd="@+id/summaryEditText"
         android:layout_toRightOf="@+id/textView3"
         android:layout_toEndOf="@+id/textView3"
-        android:onClick="setDueDate" />
+        android:onClick="setDueDate"
+        android:background="#ffa500" />
 
-    <Button
-        android:layout_width="150dp"
-        android:layout_height="wrap_content"
-        android:text="Confirm"
-        android:id="@+id/confirmButton"
-        android:onClick="confirm"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true" />
 
     <CheckBox
         android:layout_width="wrap_content"
@@ -86,4 +79,14 @@
         android:textColor="#000000"
         android:textSize="@dimen/item_touch_helper_max_drag_scroll_per_frame"
         android:checked="false" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Confirm"
+        android:id="@+id/confirmButton"
+        android:layout_below="@+id/checkBox"
+        android:layout_centerHorizontal="true"
+        android:onClick="confirm"
+        android:background="#ffa500" />
 </RelativeLayout>

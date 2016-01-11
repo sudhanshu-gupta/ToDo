@@ -1,0 +1,3 @@
+/Users/sudhanshu.gupta/Documents/workspace/ToDo/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/amigo/todo/R$id$override.class
+/Users/sudhanshu.gupta/Documents/workspace/ToDo/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/amigo/todo/ToDoEditActivity$override.class
+/Users/sudhanshu.gupta/Documents/workspace/ToDo/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/android/build/gradle/internal/incremental/AppPatchesLoaderImpl.class

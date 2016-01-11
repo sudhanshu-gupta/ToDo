@@ -584,13 +584,13 @@ int id cancel_action 0x7f0c007b
 int id center 0x7f0c001d
 int id center_horizontal 0x7f0c001e
 int id center_vertical 0x7f0c001f
-int id checkBox 0x7f0c0071
+int id checkBox 0x7f0c0070
 int id checkbox 0x7f0c0052
 int id chronometer 0x7f0c0081
 int id clip_horizontal 0x7f0c002b
 int id clip_vertical 0x7f0c002c
 int id collapseActionView 0x7f0c0033
-int id confirmButton 0x7f0c0070
+int id confirmButton 0x7f0c0071
 int id contentPanel 0x7f0c004a
 int id custom 0x7f0c0050
 int id customPanel 0x7f0c004f

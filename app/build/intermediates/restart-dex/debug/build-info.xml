@@ -1,1 +1,1 @@
-<instant-run build-id="1452441411584" verifier="COMPATIBLE"><javac duration="144"/><instant-run-dex duration="23"/><instant-run-transform duration="5"/><verifier duration="1"/></instant-run>
+<instant-run build-id="1452535010351" verifier="FIELD_TYPE_CHANGE"><javac duration="215"/><instant-run-dex duration="336"/><instant-run-transform duration="17"/><verifier duration="2"/></instant-run>
